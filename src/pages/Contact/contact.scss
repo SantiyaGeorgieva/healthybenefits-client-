@@ -1,0 +1,34 @@
+.form-group {
+  &:nth-child(4) {
+    .form-control {
+      max-width: 360px;
+    }
+  }
+  &:last-child {
+    div {
+      display: flex;
+      width: 50%;
+      justify-content: space-between;
+
+      .contact_send {
+        background-color: #9ec747;
+        border: 0;
+      }
+    }
+  }
+}
+
+@media only screen and (max-device-width: 767px) {
+  .form-group {
+    &:nth-child(4) {
+      .form-control {
+        max-width: inherit;
+      }
+    }
+    &:last-child {
+      div {
+        width: 75%;
+      }
+    }
+  }
+}

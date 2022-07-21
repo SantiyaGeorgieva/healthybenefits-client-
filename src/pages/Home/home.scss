@@ -1,0 +1,101 @@
+.carousel-wrapper {
+  max-width: 100%;
+}
+
+.image {
+  position: relative;
+  width: 100%; /*for IE-6/*/
+}
+
+.image h2 {
+  position: absolute;
+  /*width: 100%;*/
+  top: 50%;
+  left: 10%;
+}
+
+.image a span {
+  position: absolute;
+  width: 100%;
+  top: 65%;
+  left: 10%;
+}
+
+.slick-slide {
+  width: 450px;
+}
+
+.images {
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: block;
+  width: 100%;
+  height: auto;
+  padding-top: 100%;
+}
+
+.images1 {
+  background-repeat: no-repeat no-repeat;
+  background-size: contain;
+  background-position: center center;
+  display: inline-block;
+  width: 100%;
+  margin-top: 15%;
+  /*height: auto;
+  padding-top: 100%;*/
+}
+
+.img-slr-1 {
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+  background-image: url('http://via.placeholder.com/450x360');
+  background-position: center;
+  width: 100%;
+  display: block;
+}
+
+.img-slr-2 {
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+  background-image: url('http://via.placeholder.com/450x360');
+  background-position: center;
+  width: 100%;
+  display: block;
+}
+
+.img-slr-3 {
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+  background-image: url('http://via.placeholder.com/450x360');
+  background-position: center;
+  width: 100%;
+  display: block;
+}
+
+.img-slr-4 {
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+  background-image: url('http://via.placeholder.com/450x360');
+  background-position: center;
+  width: 100%;
+  display: block;
+}
+
+.img-slr-5 {
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+  background-image: url('http://via.placeholder.com/450x360');
+  background-position: center;
+  width: 100%;
+  display: block;
+}
+
+.img-slr-6 {
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
+  background-image: url('http://via.placeholder.com/450x360');
+  background-position: center;
+  width: 100%;
+  display: block;
+}
