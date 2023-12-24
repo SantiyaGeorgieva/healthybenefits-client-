@@ -12,7 +12,7 @@
     "prettier:FIX-ALL-DANGEROUSLY": "prettier \"./**/*.{js,jsx,json,md,scss}\" --write",
     "sass-lint": "sass-lint -vq src/**/*.scss",
     "start": "node config/webpack-dev-server.js --inline --hot",
-    "start:prod": "yarn build; serve build"
+    "build": "yarn build; serve build"
   },
   "keywords": [],
   "author": "Santiya Georgeiva",
