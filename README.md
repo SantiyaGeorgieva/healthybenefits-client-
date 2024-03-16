@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains a client part of Healthy Benefits application. It also have a webpack configuration for a project based on React and other features for lint errors, related with the styles and scripts using husky and prettier.
 
- This application consists of Front End components (located in the `src` directory) that is built with Redux and React. 
+ This application consists of Front End components (located in the `src` directory) that is built with [Redux](https://redux.js.org/) and React.
 
 ## Installation
 First, install the programs required to run the application:
