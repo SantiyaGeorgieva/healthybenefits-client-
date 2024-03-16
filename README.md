@@ -28,7 +28,7 @@ npm start
 
 The application should open automatically.
 
-To try the linting of the project, you can the following command:
+To try the linting of the project, you can use the following command:
 ```
 npm run husky:pre-push
 ```
