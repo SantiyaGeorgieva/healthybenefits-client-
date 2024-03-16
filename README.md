@@ -23,7 +23,12 @@ npm install
 Now, start the development environment with the following command:
 
 ```
-npm run start:dev
+npm start
 ```
 
 The application should open automatically.
+
+To try the linting of the project, you can the following command:
+```
+npm run husky:pre-push
+```
